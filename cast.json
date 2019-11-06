@@ -1,0 +1,242 @@
+[
+  {
+    "person": {
+      "id": 17185,
+      "url": "http://www.tvmaze.com/people/17185/lisa-kudrow",
+      "name": "Lisa Kudrow",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1963-07-30",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/0/1999.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/0/1999.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/17185"
+        }
+      }
+    },
+    "character": {
+      "id": 78220,
+      "url": "http://www.tvmaze.com/characters/78220/friends-phoebe-buffay",
+      "name": "Phoebe Buffay",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7876.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7876.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/78220"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 20532,
+      "url": "http://www.tvmaze.com/people/20532/matthew-perry",
+      "name": "Matthew Perry",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1969-08-19",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/101/254670.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/101/254670.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/20532"
+        }
+      }
+    },
+    "character": {
+      "id": 78222,
+      "url": "http://www.tvmaze.com/characters/78222/friends-chandler-bing",
+      "name": "Chandler Bing",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7878.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7878.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/78222"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 24483,
+      "url": "http://www.tvmaze.com/people/24483/jennifer-aniston",
+      "name": "Jennifer Aniston",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1969-02-11",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8021.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8021.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/24483"
+        }
+      }
+    },
+    "character": {
+      "id": 78218,
+      "url": "http://www.tvmaze.com/characters/78218/friends-rachel-green",
+      "name": "Rachel Green",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7875.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7875.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/78218"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 27937,
+      "url": "http://www.tvmaze.com/people/27937/matt-leblanc",
+      "name": "Matt LeBlanc",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1967-07-25",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/177/444047.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/177/444047.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/27937"
+        }
+      }
+    },
+    "character": {
+      "id": 78221,
+      "url": "http://www.tvmaze.com/characters/78221/friends-joey-tribbiani",
+      "name": "Joey Tribbiani",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7877.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7877.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/78221"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 36167,
+      "url": "http://www.tvmaze.com/people/36167/courteney-cox",
+      "name": "Courteney Cox",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-06-15",
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/152/380106.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/152/380106.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/36167"
+        }
+      }
+    },
+    "character": {
+      "id": 78219,
+      "url": "http://www.tvmaze.com/characters/78219/friends-monica-geller",
+      "name": "Monica Geller",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7879.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7879.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/78219"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  },
+  {
+    "person": {
+      "id": 45515,
+      "url": "http://www.tvmaze.com/people/45515/david-schwimmer",
+      "name": "David Schwimmer",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1966-11-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/8026.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/8026.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/45515"
+        }
+      }
+    },
+    "character": {
+      "id": 78223,
+      "url": "http://www.tvmaze.com/characters/78223/friends-ross-geller",
+      "name": "Ross Geller",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/3/7880.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/3/7880.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/characters/78223"
+        }
+      }
+    },
+    "self": false,
+    "voice": false
+  }
+]
