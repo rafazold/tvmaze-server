@@ -1,4 +1,4 @@
-const {getData} = require('../actions');
+const {getData} = require('../DataBase/actions');
 
 function getSeasons(callback) {
     getData("seasons", (err, season) => {
@@ -18,6 +18,8 @@ function getSeasons(callback) {
         }
     });
 }
+
+
 
 module.exports = function (app) {
     app

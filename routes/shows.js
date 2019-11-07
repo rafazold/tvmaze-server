@@ -1,4 +1,4 @@
-const {getData} = require('../actions');
+const {getData} = require('../DataBase/actions');
 
 
 
