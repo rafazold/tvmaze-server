@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1716,
+    "url": "http://www.tvmaze.com/seasons/1716/friends-season-1",
+    "number": 1,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "1994-09-22",
+    "endDate": "1995-05-18",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1716"
+      }
+    }
+  },
+  {
+    "id": 1717,
+    "url": "http://www.tvmaze.com/seasons/1717/friends-season-2",
+    "number": 2,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "1995-09-21",
+    "endDate": "1996-05-16",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1717"
+      }
+    }
+  },
+  {
+    "id": 1718,
+    "url": "http://www.tvmaze.com/seasons/1718/friends-season-3",
+    "number": 3,
+    "name": "",
+    "episodeOrder": 25,
+    "premiereDate": "1996-09-16",
+    "endDate": "1997-05-15",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1718"
+      }
+    }
+  },
+  {
+    "id": 1719,
+    "url": "http://www.tvmaze.com/seasons/1719/friends-season-4",
+    "number": 4,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "1997-09-25",
+    "endDate": "1998-05-07",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1719"
+      }
+    }
+  },
+  {
+    "id": 1720,
+    "url": "http://www.tvmaze.com/seasons/1720/friends-season-5",
+    "number": 5,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "1998-09-24",
+    "endDate": "1999-05-20",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1720"
+      }
+    }
+  },
+  {
+    "id": 1721,
+    "url": "http://www.tvmaze.com/seasons/1721/friends-season-6",
+    "number": 6,
+    "name": "",
+    "episodeOrder": 25,
+    "premiereDate": "1999-09-23",
+    "endDate": "2000-05-18",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1721"
+      }
+    }
+  },
+  {
+    "id": 1722,
+    "url": "http://www.tvmaze.com/seasons/1722/friends-season-7",
+    "number": 7,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "2000-10-12",
+    "endDate": "2001-05-17",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1722"
+      }
+    }
+  },
+  {
+    "id": 1723,
+    "url": "http://www.tvmaze.com/seasons/1723/friends-season-8",
+    "number": 8,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "2001-09-27",
+    "endDate": "2002-05-16",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1723"
+      }
+    }
+  },
+  {
+    "id": 1724,
+    "url": "http://www.tvmaze.com/seasons/1724/friends-season-9",
+    "number": 9,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "2002-09-26",
+    "endDate": "2003-05-15",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1724"
+      }
+    }
+  },
+  {
+    "id": 1725,
+    "url": "http://www.tvmaze.com/seasons/1725/friends-season-10",
+    "number": 10,
+    "name": "",
+    "episodeOrder": 18,
+    "premiereDate": "2003-09-25",
+    "endDate": "2004-05-06",
+    "network": {
+      "id": 1,
+      "name": "NBC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": {
+      "self": {
+        "href": "http://api.tvmaze.com/seasons/1725"
+      }
+    }
+  }
+]
